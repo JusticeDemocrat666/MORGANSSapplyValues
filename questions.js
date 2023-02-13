@@ -22,7 +22,7 @@ questions =  [
     {"id": 20, "question": "Mandatory IDs should be used to ensure public safety.", "effects": {"auth": 1}},
     {"id": 21, "question": "In times of crisis, safety becomes more important than civil liberties.", "effects": {"auth": 1}},
     {"id": 22, "question": "If you have nothing to hide, you have nothing to fear.", "effects": {"auth": 1}},
-    {"id": 23, "question": "The government should neither confiscate or regulate the ownership of weapons.", "effects": {"auth": -1}},
+    {"id": 23, "question": "The state should neither confiscate or regulate the ownership of weapons.", "effects": {"auth": -1}},
     {"id": 24, "question": "A democratic and/or libertarian society is generally preferable to an authoritarian one.", "effects": {"auth": -1}},
     {"id": 25, "question": "Jury nullification should be legal.", "effects": {"auth": -1}},
     {"id": 26, "question": "The state should be abolished.", "effects": {"auth": -1}},
