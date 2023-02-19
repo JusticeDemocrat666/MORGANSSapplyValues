@@ -45,3 +45,4 @@ questions =  [
     {"id": 43, "question": "One cannot be moral without religion.", "effects": {"prog": -1}},
     {"id": 44, "question": "Parents should hold absolute power over their children, as they are older and more experienced.", "effects": {"prog": -1}},
     {"id": 45, "question": "Multiculturalism is bad.", "effects": {"prog": -1}}
+];
